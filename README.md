@@ -1,5 +1,5 @@
-# Bumblebee Bot Website (Old Version)
+# Bumblebee Bot Website (Base Version)
 
-Welcome to the **Bumblebee Bot Website** repository! This is the old version of the website for the Bumblebee Discord Bot. It serves as an informational site to showcase the bot's features, commands, and general usage instructions.  
+Welcome to the **Bumblebee Bot Website** repository! This is the base version of the website for the Bumblebee Discord Bot. It serves as an informational site to showcase the bot's features, commands, and general usage instructions.  
 
 ---
