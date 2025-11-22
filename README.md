@@ -1,5 +1,20 @@
-# Bumblebee Bot Website (Base Version)
+# 🐝 Bumblebee Discord Bot — Official Website
 
-Welcome to the **Bumblebee Bot Website** repository! This is the base version of the website for the Bumblebee Discord Bot. It serves as an informational site to showcase the bot's features, commands, and general usage instructions.  
+The official website for **Bumblebee**, a modern, responsive, and feature-rich Discord bot — built to showcase its features, capabilities, and updates with a clean user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ **React**
+* 🟦 **TypeScript**
+* 🎨 **Tailwind CSS**
+
+---
+
+## 🤝 Contributing
+
+Want to improve the site or add new sections?
+Issues and pull requests are always welcome!
 
 ---
